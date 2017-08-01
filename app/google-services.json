@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "241637294201",
+    "firebase_url": "https://restaurant-ad6fc.firebaseio.com",
+    "project_id": "restaurant-ad6fc",
+    "storage_bucket": "restaurant-ad6fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241637294201:android:f5c699c826bef703",
+        "android_client_info": {
+          "package_name": "pc.dd.testcafeprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241637294201-0k0dm6o85tv0b8pu3jufun1n7jgne2jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pc.dd.testcafeprototype",
+            "certificate_hash": "c1d6aa39b01e75a990bafae3c1ae945cb716e7d0"
+          }
+        },
+        {
+          "client_id": "241637294201-o9cu7bua3oetvtqam7ca99tet8sbbvb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pc.dd.testcafeprototype",
+            "certificate_hash": "cb17217f455cdec6e1088ab266270359cdb608ca"
+          }
+        },
+        {
+          "client_id": "241637294201-t4p0d2nk1jfvq7l2pa246i8biedm52c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmRc3gRVtf5XXK1JaqbAsSXXH4PROtx88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241637294201-j333bc98ng0sprprvntabbe3l73vcfl6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leaditteam.scannerios"
+              }
+            },
+            {
+              "client_id": "241637294201-t4p0d2nk1jfvq7l2pa246i8biedm52c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241637294201:android:b9301e0a5457656f",
+        "android_client_info": {
+          "package_name": "com.leaditteam.qrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241637294201-u97imiot678ahgfr3ilp2aru9hb0mmq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leaditteam.qrscanner",
+            "certificate_hash": "cb17217f455cdec6e1088ab266270359cdb608ca"
+          }
+        },
+        {
+          "client_id": "241637294201-84ul1qpdp9a6ujetu6ulodm5ffqprlnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leaditteam.qrscanner",
+            "certificate_hash": "c1d6aa39b01e75a990bafae3c1ae945cb716e7d0"
+          }
+        },
+        {
+          "client_id": "241637294201-t4p0d2nk1jfvq7l2pa246i8biedm52c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmRc3gRVtf5XXK1JaqbAsSXXH4PROtx88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241637294201-j333bc98ng0sprprvntabbe3l73vcfl6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leaditteam.scannerios"
+              }
+            },
+            {
+              "client_id": "241637294201-t4p0d2nk1jfvq7l2pa246i8biedm52c3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

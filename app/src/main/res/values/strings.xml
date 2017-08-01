@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRScanner</string>
+    <string name="nav_exit">Выйти</string>
+    <string name="nav_support">Купленные продукты</string>
+    <string name="nav_settings">Моя статистика</string>
+    <string name="all">All</string>
+</resources>

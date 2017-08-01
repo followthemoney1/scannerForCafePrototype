@@ -1,0 +1,37 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/backgroundColor</item>
+        <item name="android:actionButtonStyle">@style/MyActionButtonStyle</item>
+    </style>
+
+    <style name="TextLabel" parent="TextAppearance.AppCompat">
+        <!-- Hint color and label color in FALSE state -->
+        <item name="android:textColorHint">@color/backgroundColor</item>
+
+
+        <item name="colorAccent">@color/backgroundColor</item>
+        <item name="colorControlNormal">@color/backgroundColor</item>
+        <item name="colorControlActivated">@color/backgroundColor</item>
+    </style>
+
+    <style name="MyActionButtonStyle" parent="AppTheme">
+        <item name="android:minWidth">10dip</item>
+        <item name="android:padding">2dip</item>
+        <item name="android:layout_margin">2dp</item>
+    </style>
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:background">@color/backgroundColor</item>
+    </style>
+
+    <style name="EditTextColorCustom" parent="@style/AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorAccent">#FFFFFF</item>
+        <item name="colorControlNormal">#ffffff</item>
+        <item name="colorControlActivated">#ffffff</item>
+    </style>
+</resources>
